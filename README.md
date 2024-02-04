@@ -1,16 +1,15 @@
-# crud_user
+# Challenge crud_user 
 
-A new Flutter project.
+Preview Simple CRUD USERS 
 
-## Getting Started
+![0203](https://github.com/evest-dev/my-config-nvim/assets/74104584/1fe30a9c-cd8d-4de0-ae86-70d1d6a2d246)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Technologies and Design
++ Flutter (RiverPod, Streams, GoRouter, Flutter Material)
++ Firebase (FireStorage RealDB)
++ Simple UI Proyect
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Multiplataform
++ Working on Android & iOS :white_check_mark:
+  
