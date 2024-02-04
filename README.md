@@ -8,6 +8,7 @@ Preview Simple CRUD USERS
 # Technologies and Design
 + Flutter (RiverPod, Streams, GoRouter, Flutter Material)
 + Firebase (FireStorage RealDB)
++ Simple Clean Architecture
 + Simple UI Proyect
 
 #Multiplataform
